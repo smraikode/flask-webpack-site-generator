@@ -7,7 +7,7 @@
 ## Install global pip Packages
 pip install flask frozen_flask
 
-## install node packages
+## Install node packages
 npm i
 
-## READ ME and detailed installation steps will be added SOON.
+## READ ME and detailed installation steps will be updated SOON.
