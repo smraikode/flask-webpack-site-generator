@@ -11,5 +11,3 @@ install node packages
 npm i
 
 ## READ ME and detailed installation steps will be added SOON.
-
-
