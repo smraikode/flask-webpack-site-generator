@@ -1,0 +1,14 @@
+<!--
+
+ This template is only called when the browser hits '/' (check 'def index()' in site.py)
+ It includes two header buttons but you can safely remove them, and the other difference
+ for a regular page template is the header_class which is set to 'header-large'.
+
+-->
+
+{% extends "base.html" %}
+
+{% block page_content %}
+    <h1>User Id : {{ page.0.userId }}</h1>
+    <h1>Title : {{ page.0.title }}</h1>
+{% endblock %}

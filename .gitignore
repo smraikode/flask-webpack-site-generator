@@ -1,0 +1,17 @@
+# Google App Engine generated folder
+appengine-generated/
+
+# python deps
+venv
+
+# node deps
+
+# unnecessary files
+package-lock.json
+__pycache__/*
+.vscode/*
+node_modules
+dist
+
+# minified files
+*.min.*

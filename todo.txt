@@ -1,0 +1,5 @@
+1. seperate json importer function
+2. intigrating either webpack or gulp task for sass and js. - DONE
+3. Localization support
+4. More efficient commands to resolve dev and build conflicts.
+5. Proper Read me and installations steps
